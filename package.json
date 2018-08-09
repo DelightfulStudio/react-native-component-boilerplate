@@ -1,17 +1,18 @@
 {
     "name": "react-native-component-boilerplate",
     "version": "0.0.1",
-    "main": "lib/index.js",
+    "author": "Delightful Studio",
     "license": "MIT",
+    "main": "lib/index.js",
     "scripts": {
-        "start": "node node_modules/react-native/local-cli/cli.js start",
-        "run-ios": "react-native run-ios --project-path ./example/ios"
+        "test": "true",
+        "build": "true",
+        "release-notes": "conventional-github-releaser -p eslint"
     },
     "repository": {
         "type": "git",
         "url": "git+https://github.com/DelightfulStudio/react-native-component-boilerplate.git"
     },
-    "author": "Delightful Studio",
     "dependencies": {},
     "peerDependencies": {
         "react": ">=16.4.0",
@@ -22,6 +23,7 @@
         "babel-core": "^6.26.3",
         "babel-jest": "^23.0.1",
         "babel-preset-react-native": "^4.0.0",
+        "conventional-github-releaser": "^3.1.2",
         "eslint": "^4.19.1",
         "jest": "^23.1.0",
         "react": "^16.4.1",
