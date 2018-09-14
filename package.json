@@ -1,6 +1,7 @@
 {
-    "name": "react-native-component-boilerplate",
-    "version": "0.0.1",
+    "name": "@delightfulstudio/react-native-component-boilerplate",
+    "version": "0.0.0",
+    "description": "React Native Component Boilerplate",
     "author": "Delightful Studio",
     "license": "MIT",
     "main": "lib/index.js",
