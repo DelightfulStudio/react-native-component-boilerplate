@@ -1,0 +1,8 @@
+.*
+example/
+android/build/
+**/__tests__/
+yalc.lock
+yarn.lock
+*.log
+*.iml
