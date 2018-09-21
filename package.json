@@ -16,8 +16,8 @@
     },
     "dependencies": {},
     "peerDependencies": {
-        "react": ">=16.5.0",
-        "react-native": ">=0.57"
+        "react": ">=16.4.2",
+        "react-native": ">=0.55.4"
     },
     "devDependencies": {
         "@textpress/eslint-config-textpress": "^0.4.0",
