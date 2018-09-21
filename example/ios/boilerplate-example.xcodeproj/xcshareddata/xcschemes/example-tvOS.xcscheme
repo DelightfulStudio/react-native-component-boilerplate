@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "boilerplate_example-tvOS.app"
-               BlueprintName = "boilerplate_example-tvOS"
-               ReferencedContainer = "container:boilerplate_example.xcodeproj">
+               BuildableName = "boilerplate-example-tvOS.app"
+               BlueprintName = "boilerplate-example-tvOS"
+               ReferencedContainer = "container:boilerplate-example.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "boilerplate_example-tvOSTests.xctest"
-               BlueprintName = "boilerplate_example-tvOSTests"
-               ReferencedContainer = "container:boilerplate_example.xcodeproj">
+               BuildableName = "boilerplate-example-tvOSTests.xctest"
+               BlueprintName = "boilerplate-example-tvOSTests"
+               ReferencedContainer = "container:boilerplate-example.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "boilerplate_example-tvOSTests.xctest"
-               BlueprintName = "boilerplate_example-tvOSTests"
-               ReferencedContainer = "container:boilerplate_example.xcodeproj">
+               BuildableName = "boilerplate-example-tvOSTests.xctest"
+               BlueprintName = "boilerplate-example-tvOSTests"
+               ReferencedContainer = "container:boilerplate-example.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "boilerplate_example-tvOS.app"
-            BlueprintName = "boilerplate_example-tvOS"
-            ReferencedContainer = "container:boilerplate_example.xcodeproj">
+            BuildableName = "boilerplate-example-tvOS.app"
+            BlueprintName = "boilerplate-example-tvOS"
+            ReferencedContainer = "container:boilerplate-example.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "boilerplate_example-tvOS.app"
-            BlueprintName = "boilerplate_example-tvOS"
-            ReferencedContainer = "container:boilerplate_example.xcodeproj">
+            BuildableName = "boilerplate-example-tvOS.app"
+            BlueprintName = "boilerplate-example-tvOS"
+            ReferencedContainer = "container:boilerplate-example.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "boilerplate_example-tvOS.app"
-            BlueprintName = "boilerplate_example-tvOS"
-            ReferencedContainer = "container:boilerplate_example.xcodeproj">
+            BuildableName = "boilerplate-example-tvOS.app"
+            BlueprintName = "boilerplate-example-tvOS"
+            ReferencedContainer = "container:boilerplate-example.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

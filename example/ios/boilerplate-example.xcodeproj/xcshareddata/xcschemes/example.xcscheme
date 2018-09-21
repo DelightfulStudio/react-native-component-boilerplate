@@ -30,8 +30,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
                BuildableName = "boilerplate_example.app"
-               BlueprintName = "boilerplate_example"
-               ReferencedContainer = "container:boilerplate_example.xcodeproj">
+               BlueprintName = "boilerplate-example"
+               ReferencedContainer = "container:boilerplate-example.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "boilerplate_exampleTests.xctest"
-               BlueprintName = "boilerplate_exampleTests"
-               ReferencedContainer = "container:boilerplate_example.xcodeproj">
+               BuildableName = "boilerplate-exampleTests.xctest"
+               BlueprintName = "boilerplate-exampleTests"
+               ReferencedContainer = "container:boilerplate-example.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "boilerplate_exampleTests.xctest"
-               BlueprintName = "boilerplate_exampleTests"
-               ReferencedContainer = "container:boilerplate_example.xcodeproj">
+               BuildableName = "boilerplate-exampleTests.xctest"
+               BlueprintName = "boilerplate-exampleTests"
+               ReferencedContainer = "container:boilerplate-example.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -72,8 +72,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "boilerplate_example.app"
-            BlueprintName = "boilerplate_example"
-            ReferencedContainer = "container:boilerplate_example.xcodeproj">
+            BlueprintName = "boilerplate-example"
+            ReferencedContainer = "container:boilerplate-example.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -95,8 +95,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "boilerplate_example.app"
-            BlueprintName = "boilerplate_example"
-            ReferencedContainer = "container:boilerplate_example.xcodeproj">
+            BlueprintName = "boilerplate-example"
+            ReferencedContainer = "container:boilerplate-example.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -114,8 +114,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "boilerplate_example.app"
-            BlueprintName = "boilerplate_example"
-            ReferencedContainer = "container:boilerplate_example.xcodeproj">
+            BlueprintName = "boilerplate-example"
+            ReferencedContainer = "container:boilerplate-example.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
